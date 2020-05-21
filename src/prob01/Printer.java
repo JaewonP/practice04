@@ -1,6 +1,6 @@
 package prob01;
 
-public class Printer {
+public class Printer { //오버로딩 
 	public void println( int val ) {
 		System.out.println( val );
 	}
